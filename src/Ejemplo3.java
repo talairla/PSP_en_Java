@@ -6,6 +6,7 @@ public class Ejemplo3 {
 			System.out.println("Error el número de parámetros no es el deseado");
 		}else{
 			System.out.println(args[0]+args[1]);
+			
 		}
 	}
 
